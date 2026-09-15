@@ -25,7 +25,7 @@ install_from_github("https://github.com/keefng8/word-grid")
 
 - *"play word grid"*
 - *"open the word game"*
-- *"i'm bored"*
+- *"give me a word puzzle"*
 - *"play a word puzzle"*
 
 These are not matched word for word. Mavis gives them to its language model as examples of intent, so close variations work too.
