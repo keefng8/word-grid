@@ -1,0 +1,13 @@
+{
+  "name": "Word Grid",
+  "description": "A word puzzle - find as many words as you can in a grid of letters before the clock runs out. Keeps your best scores. Plays entirely offline with a built-in dictionary.",
+  "entry": "main.py",
+  "mode": "launch",
+  "keywords": [
+    "play word grid",
+    "open the word game",
+    "i'm bored",
+    "play a word puzzle"
+  ],
+  "category": "Gaming"
+}
